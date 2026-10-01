@@ -16,3 +16,4 @@ I am currently laying the groundwork for my career, focusing on mastering **Pyth
 
 ---
 *Always open to learning and connecting with fellow enthusiasts and professionals.*
+[Parisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParisaIO&show_icons=true&theme=radical)
