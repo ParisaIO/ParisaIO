@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Parisa 👋
 
-<!--
-**ParisaIO/ParisaIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student, navigating the early stages of my journey into Computer Science. This space is my "Digital Logbook," where I document my academic progress, practice projects, and the ideas I'm exploring.
 
-Here are some ideas to get you started:
+### 🔭 Learning Path
+I am currently laying the groundwork for my career, focusing on mastering **Python** and deepening my understanding of core algorithms and software logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Areas of Interest
+* **Artificial Intelligence:** I am fascinated by the potential of machines to solve complex problems and analyze patterns.
+* **AI in Healthcare:** This is my primary passion. I am eager to learn how machine learning can transform medical data analysis, improve diagnostics, and contribute to better patient care. I know I am at the start of this long road, but I am committed to the process.
+
+### 🛠 Tech Stack
+* **Programming Languages:** Python (Actively learning & practicing)
+* **Academic Focus:** Foundations of Computer Science, Data Structures, and Algorithms.
+* **My Philosophy:** "Every line of code I write is a step closer to understanding the digital world."
+
+---
+*Always open to learning and connecting with fellow enthusiasts and professionals.*
